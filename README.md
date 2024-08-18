@@ -2,5 +2,5 @@
 For Assignments
 # "Web 335 Introduction to NoSQL"
 ## "Contributors"
-   -Richard Krasso
+   -Richard Krasso<br>
    -Hayat Soma
