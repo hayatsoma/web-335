@@ -1,0 +1,33 @@
+{
+  "customers": [
+    {
+      "_id": "cust001",
+      "firstName": "Hayat",
+      "lastName": "Soma",
+      "orders": [
+        {
+          "burger_id": "burger01",
+          "burgerName": "Cheeseburger",
+          "price": 5.99
+        },
+        {
+          "burger_id": "burger02",
+          "burgerName": "Veggie Burger",
+          "price": 4.99
+        }
+      ]
+    },
+    {
+      "_id": "cust002",
+      "firstName": "Mera",
+      "lastName": "Jemal",
+      "orders": [
+        {
+          "burger_id": "burger001",
+          "burgerName": "Cheeseburger",
+          "price": 5.99
+        }
+      ]
+    }
+  ]
+}
