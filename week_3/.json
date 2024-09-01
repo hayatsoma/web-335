@@ -1,0 +1,41 @@
+{
+    "VIEWERS": [
+      {
+        "_id": "viewer1",
+        "firstName": "Hayat",
+        "lastName": "Soma"
+      },
+      {
+        "_id": "viewer2",
+        "firstName": "Jemal",
+        "lastName": "Nur"
+      }
+    ],
+    "MOVIES": [
+      {
+        "_id": "movie1",
+        "movieName": "Inception",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "_id": "movie2",
+        "movieName": "The Matrix",
+        "Genre": "Action"
+      }
+    ],
+    "RATINGS": [
+      {
+        "_id": "rating1",
+        "ratingScore": 5,
+        "viewerId": "viewer1",
+        "movieId": "movie1"
+      },
+      {
+        "_id": "rating2",
+        "ratingScore": 4,
+        "viewerId": "viewer2",
+        "movieId": "movie2"
+      }
+    ]
+  }
+  
